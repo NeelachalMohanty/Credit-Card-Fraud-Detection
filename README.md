@@ -29,23 +29,23 @@ Multiple neural network configurations were tested by varying **activation funct
 
 ---
 
-## 🧪 How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
-Install dependencies:
+# Clone the repository
+git clone https://github.com/yourusername/credit-card-fraud-detection.git
+cd credit-card-fraud-detection
+
+# Install dependencies
 pip install -r requirements.txt
 
-Run the notebook:
+# Run the notebook
 jupyter notebook Fraud_Detection.ipynb
 
+
 ✅ Results
-Tested neural networks with combinations of optimizers and activation functions
+🧠 Tested neural networks with combinations of activation functions and optimizers
 
-Best model selected based on F1-score and ROC-AUC
+🏆 Best model selected based on F1-score and ROC-AUC
 
-Class imbalance handled effectively using pipeline-based SMOTE + Tomek
+⚖️ Class imbalance handled effectively using SMOTE + Tomek Links (via pipeline)
 
-Achieved high precision and recall for fraud cases
+📊 Achieved high precision and recall for fraudulent transaction detection
 
