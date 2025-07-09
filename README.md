@@ -9,6 +9,13 @@ Multiple neural network configurations were tested by varying **activation funct
 ## 📁 Project Structure
 - `Fraud_Detection.ipynb`: Complete notebook with preprocessing, model training, evaluation, and visualization.
 
+## 📊 Dataset
+- The dataset used is from Kaggle:  
+[Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+- It contains transactions made by European cardholders in September 2013, with anonymized features and labeled fraud cases.
+
+
 ---
 
 ## 🚀 Features
