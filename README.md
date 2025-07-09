@@ -40,12 +40,13 @@ pip install -r requirements.txt
 jupyter notebook Fraud_Detection.ipynb
 
 
-✅ Results
-🧠 Tested neural networks with combinations of activation functions and optimizers
+# ✅ Results
 
-🏆 Best model selected based on F1-score and ROC-AUC
+-  Tested neural networks with combinations of activation functions and optimizers
 
-⚖️ Class imbalance handled effectively using SMOTE + Tomek Links (via pipeline)
+-  Best model selected based on F1-score and ROC-AUC
 
-📊 Achieved high precision and recall for fraudulent transaction detection
+-  Class imbalance handled effectively using SMOTE + Tomek Links (via pipeline)
+
+-  Achieved high precision and recall for fraudulent transaction detection
 
